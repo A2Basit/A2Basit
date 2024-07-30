@@ -7,6 +7,7 @@
 </p>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A2Basit&show_icons=true&theme=react&count_private=true&include_all_commits=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A2Basit&theme=react&hide_border=false" height="165">
 </div>
 
