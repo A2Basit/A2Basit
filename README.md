@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdul Basit👋</h1>
-<h2 align="center">MERN Stack Developer & Computer Science Student 💻</h2>
+<h2 align="center">Junior Software Engineer & Computer Science Student 💻</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-basit-127040196/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me:
 
-- 🎓 I'm currently mastering **Full Stack Development** focusing on the MERN stack.
+- 🎓 I'm currently mastering **Full Stack Development** focusing on the MERN stack and FastAPI.
 - 🔐 Interested in building **user-friendly solutions** that prioritize privacy and freedom.
 - 🎨 Passionate about designing **simple and effective user interfaces**.
 - 🕹️ In my free time, I enjoy **gaming**.
